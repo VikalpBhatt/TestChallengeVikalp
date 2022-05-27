@@ -8,5 +8,8 @@ yarn install
 ```
 yarn run test
 ```
+---
 
-# Output will show the possible comination tested as part of the run
+Output will show the possible comination tested as part of the run
+
+---
