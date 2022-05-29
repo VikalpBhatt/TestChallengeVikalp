@@ -1,5 +1,5 @@
 
-#SSH to the newly created VM
+#SSH to the newly created VM (name, region, zone can be changed or as per desired)
 gcloud compute ssh --project=vikalptrials --zone=europe-west1-c mycomputeeng1
 
 #to go to root user and install docker and docker-compose needed for app
